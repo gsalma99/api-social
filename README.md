@@ -1,6 +1,6 @@
-# social-api
+# api-social
 
-# The Official Social API
+# API Social
 
 # Worked on with Justin Berg 
 
