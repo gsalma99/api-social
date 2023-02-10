@@ -18,9 +18,13 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 # Github Link
 
-
+https://github.com/gsalma99/api-social
 
 # Video Link 
+
+https://docs.google.com/document/d/150qf0zvLqTlt5O54fugkRzax9DM0TQU87rI0RvXgX60/edit?usp=sharing
+
+
 
 
 
